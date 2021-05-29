@@ -22,6 +22,4 @@ Skills: HTML/ CSS/ JS/ React.js
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanhindman6654&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ryanhindman6654)  
-
 ![Profile views](https://gpvc.arturio.dev/Ryanhindman6654)  
