@@ -1,6 +1,6 @@
 ### Hi there 👋, About Ryan
 #### I am a website and discord bot dev
-![I am a website and discord bot dev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+I am a website and discord bot dev
 
 I live in Oregon. I have programming skills that I have self taught
 
