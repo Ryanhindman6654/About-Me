@@ -9,7 +9,7 @@ Skills: HTML/ CSS/ JS/ React.js
 - 🔭 I’m currently working on WaterLight Discord bot 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: ryansprogramming50@gmail.com 
+- 📫 How to reach me: ryan.hindman12@gmail.com
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I like shoot archery during my free time 
 
